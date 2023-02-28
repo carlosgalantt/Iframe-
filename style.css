@@ -32,7 +32,7 @@ iframe{
 }
 a{
     text-decoration: none;
-    background-color: white;
+    background-color: #fff;
     color: black;
     padding: 20px;
     border-radius: 15px;
@@ -41,7 +41,7 @@ a{
 a:hover{
     transition: 0.5s;
     background-color: rgb(136, 132, 132);
-    color: white;
+    color: #fff;
 }
 li{
     display: inline-block;
